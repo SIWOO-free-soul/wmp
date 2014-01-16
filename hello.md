@@ -1,9 +1,9 @@
 자기소개서
 --------------------
-이름 : 
+이름 : 이진욱 
 
-팀 :
+팀 : 생산성효율화팀
+ 
+Github ID : lgshow
 
-Github ID :
-
-E-Mail : 
+E-Mail : lgshow@wemakeprice.com
